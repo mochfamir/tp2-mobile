@@ -24,7 +24,7 @@
       },
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBXMeDPJZAF8nDyPNSP6XIAFdg5JuWdQ2U"
+          "apiKey": ""
         }
       },
       "package": "com.mochfamir.tp2mobile"
