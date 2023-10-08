@@ -21,10 +21,29 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBXMeDPJZAF8nDyPNSP6XIAFdg5JuWdQ2U"
+        }
+      },
+      "package": "com.mochfamir.tp2mobile"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "85376a4d-70c6-41cd-9ba4-e624033a9b8f"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/85376a4d-70c6-41cd-9ba4-e624033a9b8f"
     }
   }
 }
+
+
